@@ -1,6 +1,7 @@
 {
   "name": "ortho-gen",
   "displayName": "Ortho Gen",
+  "icon": "icon.png",
   "publisher": "Olifve",
   "description": "Orthodox Canonical Form Class Generator",
   "version": "0.1.1",
